@@ -44,6 +44,7 @@
     "react-dom": "^18",
     "react-text-to-speech": "^0.14.5",
     "react-textarea-autosize": "^8.5.3",
+    "sharp": "^0.34.5",
     "sonner": "^1.4.41",
     "tailwind-merge": "^2.2.2",
     "winston": "^3.17.0",
